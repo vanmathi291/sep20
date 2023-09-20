@@ -1,0 +1,47 @@
+body{
+    background-image: url('./img/background1.jpeg');
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+.base{
+   
+    color: indianred;
+    text-align: center;
+    padding: 10px;
+}
+#con{
+    text-align: center;
+    color: black;
+}
+p{
+    text-align: center;
+    text-transform: lowercase;
+}
+.tem{
+     text-align: center;
+    
+}
+.zen{
+    
+    border-width: 10PX;
+    border-color: dodgerblue;
+    border-style: double;
+    text-align: center;
+    justify-content: center;
+}
+.not{
+    text-align: center;
+}
+#how{
+    text-align: center;
+}
+.ben{
+    text-align: center;
+}
+#can{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
